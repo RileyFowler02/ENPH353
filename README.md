@@ -17,7 +17,9 @@ AND THEN SELECT THE .VENV KERNAL IN THE TOP RIGHT OF YOUR VSCODE
 
 ## HERE IS A QUICK REFERENCE FOR COMMANDS YOU MAY NEED:
 `pip list` - shows all installed packages
+
 `pip list --outdated` - shows outdated packages
+
 `pip install --upgrade package_name` - updates the specified package
 
 GO GET 'EM BIG SEXY
